@@ -1,7 +1,7 @@
 # ubuntu_xui_installer
 Install v2ray XUI on Ubuntu 
 
-Edit bahsh file change you email and domain .
+Edit bash file change you email and domain .
 this code supports English version on XUI with auto import users from last install on same sever .
 
 after upload cd to directory of uploaded file and excute :
